@@ -7,11 +7,11 @@
   "database": {
     "client": "mysql",
     "connection": {
-      "host": "mysql-db",
+      "host": " sql12.freemysqlhosting.net",
       "port": 3306,
-      "user": "admin",
-      "password": "DATABASE_PASSWORD",
-      "database": "DATABASE_NAME"
+      "user": "sql12591249",
+      "password": "dGq9qyA3aa",
+      "database": "sql12591249"
     }
   },
   "mail": {
